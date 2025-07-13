@@ -151,6 +151,14 @@
   ![PowerMock](https://img.shields.io/badge/%E2%80%8B-PowerMock-informational?style=flat&logo=java&color=888888)
   ![JaCoCo](https://img.shields.io/badge/%E2%80%8B-JaCoCo-informational?style=flat&logo=codecov&color=F06D06)
 
+### Others
+
+![Linux](https://img.shields.io/badge/%E2%80%8B-Linux-informational?style=flat&logo=linux&color=FCC624)
+![PowerShell](https://img.shields.io/badge/%E2%80%8B-PowerShell-informational?style=flat&logo=powershell&color=5391FE)
+![GNU Tools](https://img.shields.io/badge/%E2%80%8B-GNU_on_Windows-informational?style=flat&logo=gnu&color=A42E2B)
+![Git](https://img.shields.io/badge/%E2%80%8B-Git-informational?style=flat&logo=git&color=F05032)
+![LaTeX](https://img.shields.io/badge/%E2%80%8B-LaTeX-informational?style=flat&logo=latex&color=008080)
+
 ## :memo: Blog
 
 <details>
