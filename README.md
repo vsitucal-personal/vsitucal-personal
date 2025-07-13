@@ -105,7 +105,16 @@
   ![PowerMock](https://img.shields.io/badge/%E2%80%8B-PowerMock-informational?style=flat&logo=java&color=888888)
   ![JaCoCo](https://img.shields.io/badge/%E2%80%8B-JaCoCo-informational?style=flat&logo=codecov&color=F06D06)
 
-# :link: Links
+## :memo: Blog
+<details>
+  <summary>See more</summary>
+- [Guide on setting up AWS EMR]("https://medium.com/@vsitucal/2024-aws-emr-guide-4fb5adf2c6f3?source=friends_link&sk=05506efda866fe8ac83697e2b8599ed5)
+- [(2024) Jupyter Lab with PySpark hosted in AWS EC2](https://medium.com/@vsitucal/2024-jupyter-lab-with-pyspark-hosted-in-aws-ec2-03509f72f3bd?source=friends_link&sk=f131d396b8850ea9d2864fe26b263854)
+- [Introduction to Geopandas using PH GADM and OSM shape files](https://medium.com/@vsitucal/introduction-to-geopandas-using-ph-gadm-and-osm-shape-files-dc5529a8f102?source=friends_link&sk=b7e1884b919bb2b05e31dc9ba6f809c1)
+- [Data Strategy in Modern Business: A Personal Weltanschauung](https://medium.com/@vsitucal/data-strategy-in-modern-business-a-personal-weltanschauung-7ab908528cb8?source=friends_link&sk=ae84fe94fc148b420199fd7452169dd4)
+</details>
+
+## :link: Links
 <!-- Contact Icons (48x48 for consistency) -->
 <a href="https://vitucal.com"><img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="Website"/></a>
 <a href="mailto:vsitucal@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" title="Email"/></a>
