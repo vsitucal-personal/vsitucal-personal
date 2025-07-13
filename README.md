@@ -25,6 +25,8 @@
 
 ## 🎓 Education
 
+<details>
+  <summary>Click to expand</summary>
 <table>
   <tr>
     <td width="80">
@@ -57,9 +59,13 @@
     </td>
   </tr>
 </table>
+</details>
 
-## Tech Stack
+## 🛠️ Tech Stack
 
+<details>
+  <summary>Click to expand</summary>
+  
 ### Cloud Platforms
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
 
@@ -158,6 +164,7 @@
 ![GNU Tools](https://img.shields.io/badge/%E2%80%8B-GNU_on_Windows-informational?style=flat&logo=gnu&color=A42E2B)
 ![Git](https://img.shields.io/badge/%E2%80%8B-Git-informational?style=flat&logo=git&color=F05032)
 ![LaTeX](https://img.shields.io/badge/%E2%80%8B-LaTeX-informational?style=flat&logo=latex&color=008080)
+</details>
 
 ## :memo: Blog
 
