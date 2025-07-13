@@ -1,25 +1,40 @@
 # Hi👋 I am Vincent Itucal
 
 <p> A Physicist with Data Science, Data Engineering and Software Engineering training with a background in Data Platforms, Trading Systems, Pension Systems and Cryptocurrencies
+  
+<details>
+  <summary>GitHub Stats</summary>
+  <br>
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <a href="https://github.com/vsitucal-personal">
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=vsitucal-personal&count_private=true&show_icons=true&theme=gruvbox" />
+          </a>
+        </td>
+        <td>
+          <a href="https://github.com/vsitucal-personal">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsitucal-personal&hide=HTML,Shell&layout=compact&theme=gruvbox" />
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</details>
 
----
+## :link: Links
+<!-- Contact Icons (48x48 for consistency) -->
+<a href="https://vitucal.com"><img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="Website"/></a>
+<a href="mailto:vsitucal@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" title="Email"/></a>
+<a href="https://www.linkedin.com/in/vitucal/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
+<a href="https://s3.ap-southeast-1.amazonaws.com/vitucal.com/Latest_Vitucal_Resume.pdf">
+  <img src="https://img.icons8.com/fluency/48/resume.png" alt="Resume" title="Resume"/>
+</a>
+<a href="https://s3.ap-southeast-1.amazonaws.com/vitucal.com/Latest_Vitucal_Resume.pdf" style="margin-left:8px;">
+</a>
 
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github.com/vsitucal-personal">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=vsitucal-personal&count_private=true&show_icons=true&theme=gruvbox" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/vsitucal-personal">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsitucal-personal&hide=HTML,Shell&layout=compact&theme=gruvbox" />
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+
 
 # Tech Stack
 
@@ -35,8 +50,15 @@
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
 ![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&color=00ADD8)
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=007396)
+![Flutter](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&color=02569B)
+![Dart](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&color=0175C2)
+
 
 - ### Python
+  <details>
+  <summary>
+    See more
+  </summary>
 
   ### 🧮 Data Manipulation
   ![pandas](https://img.shields.io/badge/%E2%80%8B-pandas-informational?style=flat&logo=pandas&color=150458)
@@ -75,11 +97,19 @@
   ![Streamlit](https://img.shields.io/badge/%E2%80%8B-Streamlit-informational?style=flat&logo=streamlit&color=FF4B4B)
 
 - ### Go
-
+  <details>
+  <summary>
+    See more
+  </summary>
+  
   ![Library-Gin](https://img.shields.io/badge/%E2%80%8B-Gin-informational?style=flat&logo=go&color=00ADD8)
   ![Tool-AWS SDK](https://img.shields.io/badge/%E2%80%8B-AWS_SDK_for_Go-informational?style=flat&logo=go&color=232F3E)
 
 - ### Java
+  <details>
+  <summary>
+    See more
+  </summary>
 
   ![Spring](https://img.shields.io/badge/%E2%80%8B-Spring-informational?style=flat&logo=spring&color=6DB33F)
   ![Spring Batch](https://img.shields.io/badge/%E2%80%8B-Spring_Batch-informational?style=flat&logo=spring&color=77BC1F)
