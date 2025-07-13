@@ -85,11 +85,11 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
-![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&color=00ADD8)
-![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=007396)
-![Flutter](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&color=02569B)
-![Dart](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&color=0175C2)
+![Python](https://img.shields.io/badge/%E2%80%8B-Python-informational?style=flat&logo=python&color=3776AB)
+![Go](https://img.shields.io/badge/%E2%80%8B-Go-informational?style=flat&logo=go&color=00ADD8)
+![Java](https://img.shields.io/badge/%E2%80%8B-Java-informational?style=flat&logo=java&color=007396)
+![Flutter](https://img.shields.io/badge/%E2%80%8B-Flutter-informational?style=flat&logo=flutter&color=02569B)
+![Dart](https://img.shields.io/badge/%E2%80%8B-Dart-informational?style=flat&logo=dart&color=0175C2)
 ![SQL](https://img.shields.io/badge/SQL-Structured%20Query%20Language-blue?style=flat-square)
 
 - #### Python
