@@ -85,6 +85,7 @@
   ##### 🧮 Data Manipulation
   ![pandas](https://img.shields.io/badge/%E2%80%8B-pandas-informational?style=flat&logo=pandas&color=150458)
   ![pyspark](https://img.shields.io/badge/%E2%80%8B-PySpark-informational?style=flat&logo=apachespark&color=E25A1C)
+  ![NetworkX](https://img.shields.io/badge/NetworkX-Graph%20Theory-blue?style=flat-square)
   
   ##### 🖼️ Static Visualizations
   ![geopandas](https://img.shields.io/badge/%E2%80%8B-geopandas-informational?style=flat&logo=python&color=43B02A)
