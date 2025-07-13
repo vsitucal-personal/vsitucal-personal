@@ -1,4 +1,4 @@
-# Hi👋 I am Vincent Itucal
+# Vincent Itucal
 
 <p> A Physicist with Data Science, Data Engineering and Software Engineering training with a background in Data Platforms, Trading Systems, Pension Systems and Cryptocurrencies
   
