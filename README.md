@@ -74,7 +74,7 @@
   ![ipywidgets](https://img.shields.io/badge/%E2%80%8B-ipywidgets-informational?style=flat&logo=jupyter&color=F37626)
 
   ### 💻 Interactive Development Environment
-  ![JupyterLab](https://img.shields.io/badge//%E2%80%8B-JupyterLab-informational?style=flat&logo=jupyter&color=F37626)
+  ![JupyterLab](https://img.shields.io/badge/%E2%80%8B-JupyterLab-informational?style=flat&logo=jupyter&color=F37626)
 
   ### 🤖 AI and Machine Learning
   ![scikit-learn](https://img.shields.io/badge/%E2%80%8B-scikit--learn-informational?style=flat&logo=scikitlearn&color=F7931E)
