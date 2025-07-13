@@ -74,7 +74,7 @@
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=007396)
 ![Flutter](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&color=02569B)
 ![Dart](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&color=0175C2)
-
+![SQL](https://img.shields.io/badge/SQL-Structured%20Query%20Language-blue?style=flat-square)
 
 - #### Python
   <details>
