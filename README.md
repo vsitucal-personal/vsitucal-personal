@@ -67,6 +67,16 @@
 ![Snowflake](https://img.shields.io/badge/Platform-Snowflake-informational?style=flat&logo=snowflake&color=29B5E8)
 ![Databricks](https://img.shields.io/badge/Platform-Databricks-informational?style=flat&logo=databricks&color=FF3621)
 
+### Databases
+
+![SQLite](https://img.shields.io/badge/SQLite-Embedded%20DB-003B57?logo=sqlite&logoColor=white&style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-Relational%20DB-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-Enterprise%20DB-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational%20DB-316192?logo=postgresql&logoColor=white&style=flat-square)
+![Amazon Athena](https://img.shields.io/badge/Amazon%20Athena-Serverless%20SQL-orange?logo=amazon-aws&logoColor=white&style=flat-square)
+![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-Data%20Warehouse-8C4FFF?logo=amazon-redshift&logoColor=white&style=flat-square)
+![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-NoSQL%20Database-4053D6?logo=amazon-dynamodb&logoColor=white&style=flat-square)
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
