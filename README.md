@@ -23,6 +23,41 @@
   </table>
 </details>
 
+## 🎓 Education
+
+<table>
+  <tr>
+    <td width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/AIM_logo_2017.svg" width="100"/>
+    </td>
+    <td>
+      <strong>Master of Science in Data Science</strong><br/>
+      <em>Asian Institute of Management</em><br/>
+      📅 2023 – 2025
+    </td>
+  </tr>
+  <tr>
+    <td width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/en/3/3d/University_of_the_Philippines_Manila_Seal.svg" width="100"/>
+    </td>
+    <td>
+      <strong>Bachelor of Science in Applied Physics</strong><br/>
+      <em>University of the Philippines Manila</em><br/>
+      📅 2013 – 2019
+    </td>
+  </tr>
+  <tr>
+    <td width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/PSHS_System_Logo.png" width="100"/>
+    </td>
+    <td>
+      <strong>High School</strong><br/>
+      <em>Philippine Science High School - Western Visayas Campus</em><br/>
+      📅 2009 – 2013
+    </td>
+  </tr>
+</table> 
+
 ## Tech Stack
 
 ### Cloud Platforms
