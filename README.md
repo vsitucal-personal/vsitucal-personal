@@ -183,7 +183,7 @@
 <p align="center">
 <a href="https://vitucal.com"><img src="https://img.icons8.com/fluent/48/000000/domain.png" height="40em" align="center" alt="Website"/></a>
 <a href="mailto:vsitucal@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" height="40em" align="center" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/vitucal/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" height="40em" align="center" alt="LinkedIn"/></a>
-<a href="https://s3.ap-southeast-1.amazonaws.com/vitucal.com/Latest_Vitucal_Resume.pdf"><img src="https://img.icons8.com/fluency/48/000000/resume.png" height="40em" align="center" alt="Resume"/></a>
+<a href="https://www.linkedin.com/in/vitucal/"><img src="https://img.icons8.com/color/linkedin.png" height="40em" align="center" alt="LinkedIn"/></a>
+<a href="https://tinyurl.com/4bytea4u"><img src="https://raw.githubusercontent.com/vsitucal-personal/vsitucal-personal/master/assets/resume_2179292.png" height="40em" align="center" alt="Resume"/></a>
 <a href="https://www.datacamp.com/portfolio/vsitucal"><img src="https://media.datacamp.com/legacy/v1657881099/DC_logo_new_56cef25cde.png?w=64" height="40em" align="center" alt="DataCamp"/></a>
 </p>
