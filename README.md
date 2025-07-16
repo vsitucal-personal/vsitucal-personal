@@ -67,16 +67,14 @@
   <summary>Click to expand</summary>
   
 ### Cloud Platforms
-[![Cloud](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+[![Cloud](https://skills.syvixor.com/api/icons?i=aws)]([https://skillicons.dev](https://skills.syvixor.com/api/icons?i=aws))
 
 ### Data Platforms
-![Snowflake](https://img.shields.io/badge/Platform-Snowflake-informational?style=flat&logo=snowflake&color=29B5E8)
-![Databricks](https://img.shields.io/badge/Platform-Databricks-informational?style=flat&logo=databricks&color=FF3621)
+[![DataPlat](https://skills.syvixor.com/api/icons?i=databricks,snowflake)](https://skills.syvixor.com/api/icons?i=databricks,snowflake)
 
 ### Databases
-[![DB](https://skillicons.dev/icons?i=sqlite,mysql,postgres,dynamodb)](https://skillicons.dev)
+[![DB2](https://skillicons.dev/icons?i=sqlite,mysql,postgres,dynamodb)](https://skillicons.dev) [![DB](https://skills.syvixor.com/api/icons?i=sqlserver,redis)](https://skillicons.dev)
 
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-Enterprise%20DB-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat-square)
 ![Amazon Athena](https://img.shields.io/badge/Amazon%20Athena-Serverless%20SQL-orange?logo=amazon-aws&logoColor=white&style=flat-square)
 ![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-Data%20Warehouse-8C4FFF?logo=amazon-redshift&logoColor=white&style=flat-square)
 
