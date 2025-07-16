@@ -111,6 +111,7 @@
   ##### 🤖 AI and Machine Learning
   ![scikit-learn](https://img.shields.io/badge/%E2%80%8B-scikit--learn-informational?style=flat&logo=scikitlearn&color=F7931E)
   ![PyTorch](https://img.shields.io/badge/%E2%80%8B-PyTorch-informational?style=flat&logo=pytorch&color=EE4C2C)
+  ![Keras](https://img.shields.io/badge/%E2%80%8B-Keras-informational?logo=keras)
   ![TensorFlow](https://img.shields.io/badge/%E2%80%8B-TensorFlow-informational?style=flat&logo=tensorflow&color=FF6F00)
   ![sentence-transformers](https://img.shields.io/badge/%E2%80%8B-sentence--transformers-informational?style=flat&logo=python&color=4B8BBE)
   ![Hugging Face](https://img.shields.io/badge/%E2%80%8B-HuggingFace-informational?style=flat&logo=huggingface&color=FFD21F)
@@ -151,7 +152,7 @@
   ![JaCoCo](https://img.shields.io/badge/%E2%80%8B-JaCoCo-informational?style=flat&logo=codecov&color=F06D06)
 
 ### Others
-[![Others](https://skillicons.dev/icons?i=linux,windows,powershell,github,gitlab,githubactions,latex,postman,vim,vscode,pycharm)](https://skillicons.dev)
+[![Others](https://skillicons.dev/icons?i=linux,windows,powershell,git,github,gitlab,githubactions,latex,postman,vim,vscode,pycharm)](https://skillicons.dev)
 
 ![GNU Tools](https://img.shields.io/badge/%E2%80%8B-GNU_on_Windows-informational?style=flat&logo=gnu&color=A42E2B)
 </details>
