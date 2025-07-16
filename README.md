@@ -67,29 +67,22 @@
   <summary>Click to expand</summary>
   
 ### Cloud Platforms
-![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
+[![Cloud](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
 ### Data Platforms
 ![Snowflake](https://img.shields.io/badge/Platform-Snowflake-informational?style=flat&logo=snowflake&color=29B5E8)
 ![Databricks](https://img.shields.io/badge/Platform-Databricks-informational?style=flat&logo=databricks&color=FF3621)
 
 ### Databases
+[![DB](https://skillicons.dev/icons?i=sqlite,mysql,postgres,dynamodb)](https://skillicons.dev)
 
-![SQLite](https://img.shields.io/badge/SQLite-Embedded%20DB-003B57?logo=sqlite&logoColor=white&style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-Relational%20DB-4479A1?logo=mysql&logoColor=white&style=flat-square)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-Enterprise%20DB-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational%20DB-316192?logo=postgresql&logoColor=white&style=flat-square)
 ![Amazon Athena](https://img.shields.io/badge/Amazon%20Athena-Serverless%20SQL-orange?logo=amazon-aws&logoColor=white&style=flat-square)
 ![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-Data%20Warehouse-8C4FFF?logo=amazon-redshift&logoColor=white&style=flat-square)
-![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-NoSQL%20Database-4053D6?logo=amazon-dynamodb&logoColor=white&style=flat-square)
 
 ### Languages
+[![Lang](https://skillicons.dev/icons?i=python,java,go,flutter,dart,c,cpp)](https://skillicons.dev)
 
-![Python](https://img.shields.io/badge/%E2%80%8B-Python-informational?style=flat&logo=python&color=3776AB)
-![Go](https://img.shields.io/badge/%E2%80%8B-Go-informational?style=flat&logo=go&color=00ADD8)
-![Java](https://img.shields.io/badge/%E2%80%8B-Java-informational?style=flat&logo=java&color=007396)
-![Flutter](https://img.shields.io/badge/%E2%80%8B-Flutter-informational?style=flat&logo=flutter&color=02569B)
-![Dart](https://img.shields.io/badge/%E2%80%8B-Dart-informational?style=flat&logo=dart&color=0175C2)
 ![SQL](https://img.shields.io/badge/SQL-Structured%20Query%20Language-blue?style=flat-square)
 
 - #### Python
@@ -158,12 +151,9 @@
   ![JaCoCo](https://img.shields.io/badge/%E2%80%8B-JaCoCo-informational?style=flat&logo=codecov&color=F06D06)
 
 ### Others
+[![Others](https://skillicons.dev/icons?i=linux,windows,powershell,github,gitlab,githubactions,latex,postman,vim,vscode,pycharm)](https://skillicons.dev)
 
-![Linux](https://img.shields.io/badge/%E2%80%8B-Linux-informational?style=flat&logo=linux&color=FCC624)
-![PowerShell](https://img.shields.io/badge/%E2%80%8B-PowerShell-informational?style=flat&logo=powershell&color=5391FE)
 ![GNU Tools](https://img.shields.io/badge/%E2%80%8B-GNU_on_Windows-informational?style=flat&logo=gnu&color=A42E2B)
-![Git](https://img.shields.io/badge/%E2%80%8B-Git-informational?style=flat&logo=git&color=F05032)
-![LaTeX](https://img.shields.io/badge/%E2%80%8B-LaTeX-informational?style=flat&logo=latex&color=008080)
 </details>
 
 ## :memo: Blog
