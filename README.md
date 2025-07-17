@@ -151,6 +151,7 @@
 
 ### Others
 [![Others](https://skills.syvixor.com/api/icons?i=linux,windows,powershell,docker,kubernetes,gnu,git,github,gitlab,githubactions,latex,postman,vim,vscode,pycharm)](https://skillicons.dev)
+</details>
 
 ## :memo: Blog
 
