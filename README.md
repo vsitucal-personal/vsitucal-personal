@@ -150,10 +150,7 @@
   ![JaCoCo](https://img.shields.io/badge/%E2%80%8B-JaCoCo-informational?style=flat&logo=codecov&color=F06D06)
 
 ### Others
-[![Others](https://skillicons.dev/icons?i=linux,windows,powershell,git,github,gitlab,githubactions,latex,postman,vim,vscode,pycharm)](https://skillicons.dev)
-
-![GNU Tools](https://img.shields.io/badge/%E2%80%8B-GNU_on_Windows-informational?style=flat&logo=gnu&color=A42E2B)
-</details>
+[![Others](https://skills.syvixor.com/api/icons?i=linux,windows,powershell,docker,kubernetes,gnu,git,github,gitlab,githubactions,latex,postman,vim,vscode,pycharm)](https://skillicons.dev)
 
 ## :memo: Blog
 
