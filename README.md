@@ -173,4 +173,5 @@
 <a href="https://www.linkedin.com/in/vitucal/"><img src="https://img.icons8.com/color/linkedin.png" height="40em" align="center" alt="LinkedIn"/></a>
 <a href="https://tinyurl.com/4bytea4u"><img src="https://raw.githubusercontent.com/vsitucal-personal/vsitucal-personal/master/assets/resume_2179292.png" height="40em" align="center" alt="Resume"/></a>
 <a href="https://www.datacamp.com/portfolio/vsitucal"><img src="https://media.datacamp.com/legacy/v1657881099/DC_logo_new_56cef25cde.png?w=64" height="40em" align="center" alt="DataCamp"/></a>
+  <a href="https://www.datacamp.com/portfolio/vitucal"><img src="https://media.datacamp.com/legacy/v1657881099/DC_logo_new_56cef25cde.png?w=64" height="40em" align="center" alt="DataCamp"/></a>
 </p>
