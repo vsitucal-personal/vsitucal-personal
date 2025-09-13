@@ -67,7 +67,7 @@
   <summary>Click to expand</summary>
   
 ### Cloud Platforms
-[![Cloud](https://skills.syvixor.com/api/icons?i=aws)]([https://skillicons.dev](https://skills.syvixor.com/api/icons?i=aws))
+[![Cloud](https://skills.syvixor.com/api/icons?i=aws,gcp)]([https://skillicons.dev](https://skills.syvixor.com/api/icons?i=aws,gcp))
 
 ### Data Platforms
 [![DataPlat](https://skills.syvixor.com/api/icons?i=databricks,snowflake)](https://skills.syvixor.com/api/icons?i=databricks,snowflake)
