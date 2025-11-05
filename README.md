@@ -40,7 +40,8 @@
   </tr>
   <tr>
     <td width="80">
-      <img src="https://upload.wikimedia.org/wikipedia/en/3/3d/University_of_the_Philippines_Manila_Seal.svg" width="50"/>
+      <!-- <img src="https://upload.wikimedia.org/wikipedia/en/3/3d/University_of_the_Philippines_Manila_Seal.svg" width="50"/> -->
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/University_of_the_Philippines_seal_2017.png" width="50"/>
     </td>
     <td style="font-size: 9px;">
       <strong>Bachelor of Science in Applied Physics</strong><br/>
