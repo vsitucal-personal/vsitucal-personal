@@ -10,12 +10,12 @@
       <tr>
         <td>
           <a href="https://github.com/vsitucal-personal">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=vsitucal-personal&count_private=true&show_icons=true&theme=gruvbox" />
+            <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=vsitucal-personal&count_private=true&show_icons=true&theme=gruvbox" />
           </a>
         </td>
         <td>
           <a href="https://github.com/vsitucal-personal">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsitucal-personal&hide=HTML,Shell&layout=compact&theme=gruvbox" />
+            <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vsitucal-personal&hide=HTML,Shell&layout=compact&theme=gruvbox" />
           </a>
         </td>
       </tr>
